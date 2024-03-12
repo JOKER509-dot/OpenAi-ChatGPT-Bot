@@ -1,7 +1,7 @@
 {
   "name": "open-ai-chatGPT-bot",
   "version": "2.0.0",
-  "description": "Mr nima chat gpt bot allows you to use OpenAi(chatGPT) on Whatsapp.",
+  "description": "for educational purposes only paying tribute to Lil Tee",
   "main": "main.js",
   "type": "commonjs",
   "scripts": {
@@ -16,8 +16,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "author": "Mr-Nima",
-  "license": "MIT",
+  "author": "Young Joshy2.0 ",
+  "license": "Cynclair263",
   "dependencies": {
     "@adiwajshing/baileys": "npm:mrnima-baileys@6.0.3",
     "@adiwajshing/keyed-db": "^0.2.4",
