@@ -1,5 +1,5 @@
 /*
-  Ths Open Ai ChatGpt Bot By Mr Nima
+  Ths Open Ai ChatGpt Bot powered by JOSHY 👻 
   @darkmakerofc
   Using
   @openai
